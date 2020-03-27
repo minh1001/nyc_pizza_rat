@@ -1,3 +1,4 @@
+![pizza_rat](https://github.com/minh1001/nyc_pizza_rat/blob/master/pizza_rat_mascot.PNG)
 # NYC Rodent Inspection Prediction
 
 ### Objective: 
