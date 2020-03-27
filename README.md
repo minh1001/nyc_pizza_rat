@@ -2,7 +2,9 @@
 # NYC Rodent Inspection Prediction
 
 ### Objective: 
-Using NYC rodent inspection results data from the NYC Open Data portal, build a model that will predict whether a given property will pass or fail. Incorporate near by restaurant inspection data as well to see if they add any predictive power i.e. if a property is near a restaurant(s) that has failed inspection due to a rodent problem, will that impact the likelihood of the property itself passing?
+Using NYC rodent inspection results data from the NYC Open Data portal, build a model that will predict whether a given property will pass or fail. 
+
+Incorporate near by restaurant inspection data as well to see if it adds any predictive power i.e. if a property is near a restaurant that has failed inspection due to a rodent problem, will that impact the likelihood of the property itself passing?
 
 ### Data:
 NYC Rodent Inspection Results
