@@ -16,7 +16,9 @@ NYC Rodent Inspection Results
 https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj
 
 NYC Restaurant Inspection Results
-https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j   
+
+Approx. 1.3 million rows of data between both data sets.
 
 ### Code:
 All coding was done in a Jupyter Notebook via Google Colab.
