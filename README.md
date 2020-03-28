@@ -4,6 +4,8 @@
 ### Presentation Time Limit: 4 minutes
 The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of varying technical acumen.
 
+The slide deck is not meant to by any means comprehnsively detail the substantial amount of analysis, coding, and modeling that went into the project.
+
 ### Objective: 
 Using NYC rodent inspection results data from the NYC Open Data portal, build a model that will predict whether a given property will pass or fail. 
 
