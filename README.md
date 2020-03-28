@@ -1,6 +1,9 @@
 ![pizza_rat](https://github.com/minh1001/nyc_pizza_rat/blob/master/pizza_rat_mascot.PNG)
 # NYC Rodent Inspection Prediction
 
+### Presentation Time Limit: 4 minutes
+The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of varying technical acumen.
+
 ### Objective: 
 Using NYC rodent inspection results data from the NYC Open Data portal, build a model that will predict whether a given property will pass or fail. 
 
